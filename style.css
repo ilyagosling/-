@@ -1,0 +1,45 @@
+
+
+main{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 255); height: 1000px; width: 1820px;
+    background-image: url(https://trikky.ru/wp-content/blogs.dir/1/files/2023/05/20/unnamed-file.jpg);
+}
+footer{
+    color: rgb(0, 0, 0);
+    padding: 20PX;
+    text-align: center;
+
+}
+
+.left{
+    width: 50%;
+}
+
+.rightBox{
+    width: 50%;
+    margin-right: 10%;
+    text-align: end;
+}
+
+header{
+    color: rgb(247, 247, 247); 
+    background-color: black; height: 500px; width: 1820px;
+    text-align: center; 
+    font-size: large;
+    background-image: url(https://img.gazeta.ru/files3/213/19018213/00001_-pic_32ratio_1200x800-1200x800-40477.jpg);
+    background-size: cover;
+}   
+
+.social img{
+    width: 60px;
+    padding-left: 10px;
+
+}
+
+.social{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
